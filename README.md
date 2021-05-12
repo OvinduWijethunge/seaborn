@@ -1,2 +1,2 @@
 # seaborn
-This is a tutorial illustration fornseaborn
+This is a tutorial illustration form seaborn
